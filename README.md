@@ -17,8 +17,12 @@ Following changes have been done:
 # Measure
 The LNA is placed in serie with a 60dB attenuator to measure the frequency response of the circuit.
 
+
+
+±5mV input -> 5uV, 50mV -28dBV
+
 # Building it
 The complete production files are available. The PCB is a 4-layer 102 x 82.6mm. Every components is easy to hand-solder.
 
-Total BOM cost is ~
+Total BOM cost is ~160USD + PCB + shipping
 
