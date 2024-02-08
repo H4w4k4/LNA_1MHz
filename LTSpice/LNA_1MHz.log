@@ -1,0 +1,322 @@
+Circuit: * P:\KiCad_project\AN-159\LTSpice\AN-159.asc
+
+Warning: Multiple definitions of model "2sd2707" Type: BJT
+Warning: Multiple definitions of model "2sd2704k" Type: BJT
+Warning: Multiple definitions of model "2sd2654" Type: BJT
+Warning: Multiple definitions of model "2sd2537" Type: BJT
+Warning: Multiple definitions of model "2sd2351" Type: BJT
+Warning: Multiple definitions of model "2sd2226k" Type: BJT
+Warning: Multiple definitions of model "2sd2153" Type: BJT
+Warning: Multiple definitions of model "2sd2114k" Type: BJT
+Warning: Multiple definitions of model "2sc4098" Type: BJT
+Warning: Multiple definitions of model "2sc2412k" Type: BJT
+Warning: Multiple definitions of model "2sa1037ak" Type: BJT
+Warning: Multiple definitions of model "bc817-16" Type: BJT
+Warning: Multiple definitions of model "bc848b" Type: BJT
+Warning: Multiple definitions of model "bc807-16" Type: BJT
+Warning: Multiple definitions of model "bcx17" Type: BJT
+Warning: Multiple definitions of model "bc858b" Type: BJT
+Warning: Multiple definitions of model "2sd1898" Type: BJT
+Warning: Multiple definitions of model "d45h11" Type: BJT
+Warning: Multiple definitions of model "bc856b" Type: BJT
+Warning: Multiple definitions of model "bc556b" Type: BJT
+Warning: Multiple definitions of model "bc846b" Type: BJT
+Warning: Multiple definitions of model "bc546b" Type: BJT
+Warning: Multiple definitions of model "bc327-40" Type: BJT
+Warning: Multiple definitions of model "bc327-25" Type: BJT
+Warning: Multiple definitions of model "bc807-40" Type: BJT
+Warning: Multiple definitions of model "bc807-25" Type: BJT
+Warning: Multiple definitions of model "bc857c" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc857a" Type: BJT
+Warning: Multiple definitions of model "bc557c" Type: BJT
+Warning: Multiple definitions of model "bc557b" Type: BJT
+Warning: Multiple definitions of model "bc337-40" Type: BJT
+Warning: Multiple definitions of model "bc337-25" Type: BJT
+Warning: Multiple definitions of model "bc817-40" Type: BJT
+Warning: Multiple definitions of model "bc817-25" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+Warning: Multiple definitions of model "bc847a" Type: BJT
+Warning: Multiple definitions of model "bc547c" Type: BJT
+Warning: Multiple definitions of model "bc547b" Type: BJT
+Warning: Multiple definitions of model "2n3019" Type: BJT
+Warning: Multiple definitions of model "bcw68g" Type: BJT
+Warning: Multiple definitions of model "bcw68f" Type: BJT
+Warning: Multiple definitions of model "bcw60d" Type: BJT
+Warning: Multiple definitions of model "bcw60c" Type: BJT
+Warning: Multiple definitions of model "bcw60b" Type: BJT
+Warning: Multiple definitions of model "bcw60a" Type: BJT
+Warning: Multiple definitions of model "2n3055" Type: BJT
+Warning: Multiple definitions of model "2n5771" Type: BJT
+Warning: Multiple definitions of model "2n5769" Type: BJT
+Warning: Multiple definitions of model "2n2369" Type: BJT
+Warning: Multiple definitions of model "2n5401" Type: BJT
+Warning: Multiple definitions of model "2n5550" Type: BJT
+Warning: Multiple definitions of model "2n4403" Type: BJT
+Warning: Multiple definitions of model "2n4401" Type: BJT
+Warning: Multiple definitions of model "2n2905a" Type: BJT
+Warning: Multiple definitions of model "2n2219a" Type: BJT
+Warning: Multiple definitions of model "2n5087" Type: BJT
+Warning: Multiple definitions of model "2n5210" Type: BJT
+Warning: Multiple definitions of model "2n5089" Type: BJT
+Warning: Multiple definitions of model "2n3391a" Type: BJT
+Warning: Multiple definitions of model "2n4126" Type: BJT
+Warning: Multiple definitions of model "2n4124" Type: BJT
+Warning: Multiple definitions of model "ztx1048a" Type: BJT
+Warning: Multiple definitions of model "fzt849" Type: BJT
+Warning: Multiple definitions of model "2n3906" Type: BJT
+Warning: Multiple definitions of model "2n3904" Type: BJT
+Warning: Multiple definitions of model "2n2907" Type: BJT
+Warning: Multiple definitions of model "2n2222" Type: BJT
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+Gmin = 1.0412
+vernier = 0.015625
+vernier = 0.0078125
+Gmin = 1.0132
+vernier = 0.00390625
+vernier = 0.00195313
+Gmin = 1.00827
+vernier = 0.00260417
+vernier = 0.00130208
+Gmin = 1.00515
+vernier = 0.000651042
+vernier = 0.000868055
+vernier = 0.000434028
+Gmin = 1.00434
+vernier = 0.000578703
+vernier = 0.000434027
+Gmin = 1.00339
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 17.6136%
+Source Step = 19.5076%
+Source Step = 21.4015%
+Source Step = 22.6799%
+Source Step = 23.1534%
+Source Step = 23.6269%
+Source Step = 24.1004%
+Source Step = 24.5739%
+vernier = 0.0234375
+Source Step = 25.0947%
+Source Step = 25.8049%
+Source Step = 26.5152%
+Source Step = 27.2254%
+Source Step = 27.9356%
+vernier = 0.0351563
+Source Step = 28.6813%
+vernier = 0.00878906
+Source Step = 28.8411%
+Source Step = 29.1075%
+Source Step = 29.3738%
+Source Step = 29.6402%
+Source Step = 29.9065%
+vernier = 0.0131836
+Source Step = 30.2927%
+Source Step = 30.6922%
+Source Step = 31.0917%
+Source Step = 31.4912%
+Source Step = 31.8907%
+vernier = 0.0197754
+Source Step = 32.45%
+Source Step = 33.0492%
+Source Step = 33.274%
+Source Step = 33.4238%
+Source Step = 33.5736%
+Source Step = 33.7234%
+Source Step = 33.8732%
+vernier = 0.00741577
+Source Step = 34.068%
+Source Step = 34.2927%
+Source Step = 34.5174%
+Source Step = 34.7421%
+Source Step = 34.9669%
+vernier = 0.0111237
+Source Step = 35.2478%
+Source Step = 35.5848%
+Source Step = 35.9219%
+Source Step = 36.259%
+Source Step = 36.5961%
+vernier = 0.0166855
+Source Step = 36.8046%
+Source Step = 36.8362%
+Source Step = 36.8678%
+Source Step = 36.8995%
+Source Step = 36.9311%
+Source Step = 36.9627%
+vernier = 0.00156426
+Source Step = 37.0053%
+Source Step = 37.0527%
+Source Step = 37.1001%
+Source Step = 37.1475%
+Source Step = 37.1949%
+vernier = 0.0023464
+Source Step = 37.2565%
+Source Step = 37.3276%
+Source Step = 37.3988%
+Source Step = 37.4699%
+Source Step = 37.541%
+vernier = 0.00351959
+Source Step = 37.6298%
+Source Step = 37.7365%
+Source Step = 37.8431%
+Source Step = 37.9498%
+Source Step = 38.0565%
+vernier = 0.00527939
+Source Step = 38.1844%
+Source Step = 38.3444%
+Source Step = 38.5044%
+Source Step = 38.6644%
+Source Step = 38.8244%
+vernier = 0.00791909
+Source Step = 39.0083%
+Source Step = 39.2483%
+Source Step = 39.4883%
+Source Step = 39.7283%
+Source Step = 39.9682%
+vernier = 0.0118786
+Source Step = 40.2322%
+Source Step = 40.5922%
+Source Step = 40.9521%
+Source Step = 41.3121%
+Source Step = 41.672%
+vernier = 0.0178179
+Source Step = 42.05%
+Source Step = 42.5899%
+Source Step = 43.1299%
+Source Step = 43.6698%
+Source Step = 44.2097%
+Source Step = 44.7497%
+vernier = 0.0267269
+Source Step = 45.5596%
+Source Step = 46.3695%
+Source Step = 47.1794%
+Source Step = 47.9893%
+Source Step = 48.7992%
+vernier = 0.0400904
+Source Step = 49.9736%
+Source Step = 51.1884%
+Source Step = 52.4033%
+Source Step = 53.6182%
+Source Step = 54.833%
+vernier = 0.0601356
+Source Step = 56.5338%
+Source Step = 58.3561%
+Source Step = 60.1784%
+Source Step = 62.0007%
+Source Step = 63.823%
+vernier = 0.0902034
+Source Step = 66.2831%
+Source Step = 69.0165%
+Source Step = 71.7499%
+Source Step = 74.4834%
+Source Step = 77.2168%
+vernier = 0.135305
+Source Step = 80.7703%
+Source Step = 84.8704%
+Source Step = 88.9706%
+Source Step = 91.4371%
+Source Step = 91.5012%
+Source Step = 91.5652%
+Source Step = 91.6293%
+Source Step = 91.6933%
+Source Step = 91.7574%
+Source Step = 91.8215%
+Source Step = 91.8855%
+Source Step = 91.9496%
+Source Step = 92.0137%
+Source Step = 92.0777%
+Source Step = 92.1418%
+Source Step = 92.2059%
+Source Step = 92.2699%
+Source Step = 92.334%
+Source Step = 92.3981%
+Source Step = 92.4621%
+Source Step = 92.5262%
+Source Step = 92.5903%
+Source Step = 92.6543%
+Source Step = 92.7184%
+Source Step = 92.7825%
+Source Step = 92.8465%
+Source Step = 92.9106%
+Source Step = 92.9746%
+Source Step = 93.0387%
+Source Step = 93.1028%
+Source Step = 93.1668%
+Source Step = 93.2309%
+Source Step = 93.295%
+Source Step = 93.359%
+Source Step = 93.4231%
+Source Step = 93.4872%
+Source Step = 93.5512%
+Source Step = 93.6153%
+Source Step = 93.6794%
+Source Step = 93.7434%
+Source Step = 93.8075%
+Source Step = 93.8716%
+Source Step = 93.9356%
+Source Step = 93.9997%
+Source Step = 94.0637%
+Source Step = 94.1278%
+Source Step = 94.1919%
+vernier = 0.00317121
+Source Step = 94.2848%
+Source Step = 94.3809%
+Source Step = 94.477%
+Source Step = 94.5731%
+Source Step = 94.6692%
+vernier = 0.00475682
+Source Step = 94.8037%
+Source Step = 94.9478%
+Source Step = 95.092%
+Source Step = 95.2361%
+Source Step = 95.3803%
+vernier = 0.00713523
+Source Step = 95.5749%
+Source Step = 95.7911%
+Source Step = 96.0073%
+Source Step = 96.2235%
+Source Step = 96.4398%
+vernier = 0.0107028
+Source Step = 96.7208%
+Source Step = 97.0452%
+Source Step = 97.3695%
+Source Step = 97.6938%
+Source Step = 98.0182%
+vernier = 0.0160543
+Source Step = 98.4236%
+Source Step = 98.9101%
+Source Step = 99.3965%
+Source Step = 99.883%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Wed Jan 17 19:32:00 2024
+Total elapsed time: 12.840 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 36823
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 266
+fillins = 946
+solver = Normal
+Matrix Compiler1:    4197 opcodes
+Matrix Compiler2: 45.83 KB object code size  4.4/3.7/[1.4]
+
