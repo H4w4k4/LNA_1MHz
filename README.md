@@ -1,4 +1,4 @@
-# LNA_1MHz
+ # LNA_1MHz
 10Hz to 1MHz Low Noise Amplifier based on Linear Technology AN-159.
 
 <p align="center">
@@ -23,7 +23,7 @@ A 60dB attenuator is placed on the input of the LNA to measure the frequency res
 
 
 # Building it
-The complete production files are available. The PCB is a 4-layer 102 x 82.6mm. Every components is hand solderable. The LNA is powered by 6x AA batteries.
+The complete production files are available. The PCB is a 4-layer 102 x 82.6mm. Every components is hand solderable. The LNA is powered by 6x AA batteries. Use the Gerber "housing_Lid_Drill" for drilling the holes in the housing cover. 
 
 Total BOM cost is ~160USD + PCB + shipping.
 
