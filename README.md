@@ -2,8 +2,14 @@
 10Hz to 1MHz Low Noise Amplifier based on Linear Technology AN-159.
 
 <p align="center">
-<img src="https://github.com/H4w4k4/LNA_1MHz/assets/108990189/98a81adf-c990-49a4-b7a2-542d2d366905" width=60%/>
+<img src="https://github.com/H4w4k4/LNA_1MHz/assets/108990189/98a81adf-c990-49a4-b7a2-542d2d366905" width=50%/>
+ &nbsp; &nbsp;
+<img src="https://github.com/H4w4k4/LNA_1MHz/assets/108990189/e3785ea5-ef86-4277-b3d1-323e20a315cc" width=44%/>
+
 </p>
+
+
+
 
 
 # Design
@@ -18,12 +24,13 @@ Following changes have been done:
 A 60dB attenuator is placed on the input of the LNA to measure the frequency response. An Analog Discovery 3 is used as a network analyser.
 
 <p align="center">
-<img src="https://github.com/H4w4k4/LNA_1MHz/assets/108990189/8c0626d6-a869-42b7-8995-60be9b2a7002" width=80%/>
+<img src="https://github.com/H4w4k4/LNA_1MHz/assets/108990189/813e2e67-2ed9-498d-b236-c18c464f913c" width=80%/>
 </p>
 
 
+
 # Building it
-The complete production files are available. The PCB is a 4-layer 102 x 82.6mm. Every components is hand solderable. The LNA is powered by 6x AA batteries. Use the Gerber "housing_Lid_Drill" for drilling the holes in the housing cover. 
+The complete production files are available. The PCB is a 4-layer 102 x 82.6mm and very components is hand solderable. The LNA is powered by 6x AA batteries, consumption is about 100mA. Use the Gerber "housing_Lid_Drill" for drilling the holes in the housing cover. 
 
 Total BOM cost is ~160USD + PCB + shipping.
 
