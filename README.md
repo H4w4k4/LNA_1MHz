@@ -27,8 +27,6 @@ A 60dB attenuator is placed on the input of the LNA to measure the frequency res
 <img src="https://github.com/H4w4k4/LNA_1MHz/assets/108990189/813e2e67-2ed9-498d-b236-c18c464f913c" width=80%/>
 </p>
 
-Sensitivity test was done with less than ideal setup, connection and a diy 112dB attenuator (4.02M in serie with 10R). A 50kHz 500mVp input sinus (1.244µVp input of the LNA) sinus was successfully amplified and measurable on the output.
-
 
 
 # Building it
