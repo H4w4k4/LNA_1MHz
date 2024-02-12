@@ -30,7 +30,7 @@ A 60dB attenuator is placed on the input of the LNA to measure the frequency res
 
 
 # Building it
-The complete production files are available. The PCB is a 4-layer 102 x 82.6mm and very components is hand solderable. The LNA is powered by 6x AA batteries, consumption is about 100mA. Use the Gerber "housing_Lid_Drill" for drilling the holes in the housing cover. 
+The complete production files are available. The PCB is a 4-layer 102 x 82.6mm and every components is hand solderable. The LNA is powered by 6x AA batteries, consumption is about 100mA. Use the Gerber "housing_Lid_Drill" for drilling the holes in the housing cover. 
 
 Total BOM cost is ~160USD + PCB + shipping.
 
